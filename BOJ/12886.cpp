@@ -3,7 +3,7 @@
 #define y second
 using namespace std;
 
-int visited[1001][1001];
+int visited[10001][10001];
 int a, b, c;
 int sum = 0;
 
